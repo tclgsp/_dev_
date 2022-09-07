@@ -1,0 +1,4 @@
+- add configure stage for libs and mods?
+- remove flags after all done(create .done flag)?
+- add a target for make to create a project dist tarball.
+- write a README
